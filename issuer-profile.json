@@ -4,7 +4,7 @@
     "https://w3id.org/blockcerts/v3"
   ],
   "type": "Profile",
-  "id": "https://sirdemian.github.io/blockcert-unq/issuer-profile.json",
+  "id": "https://sirDemian.github.io/blockcert-unq/issuer-profile.json",
   "name": "Demian/UniversidadNacionalDeQuilmes/",
   "url": "https://tu-sitio-web.com",
   "email": "contacto@tu-dominio.com",
