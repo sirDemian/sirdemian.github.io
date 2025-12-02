@@ -4,10 +4,10 @@
     "https://w3id.org/blockcerts/v3"
   ],
   "type": "Profile",
-  "id": "https://sirDemian.github.io/blockcert-unq/issuer-profile.json",
+  "id": "https://sirDemian.github.io/blockcert-unq/issuer-blockcerts.json",
   "name": "Demian/UniversidadNacionalDeQuilmes/",
-  "url": "https://tu-sitio-web.com",
-  "email": "contacto@tu-dominio.com",
+  "url": "https://i-haven-t-web.com",
+  "email": "sirdemian@gmail.com",
   "publicKey": [{
     "id": "ecdsa-koblitz-pubkey:0x983331d56fA36f6Dee9428eaD43525BA2b805c5B"
   }]

@@ -1,0 +1,29 @@
+{
+    "@context": [
+      "https://www.w3.org/ns/did/v1",
+      "https://w3id.org/security/suites/jws-2020/v1"
+    ],
+    "id": "did:web:sirDemian.github.io",
+    "verificationMethod": [
+      {
+        "id": "did:web:sirDemian.github.io#key-1",
+        "type": "JsonWebKey2020",
+        "controller": "did:web:sirDemian.github.io",
+        "publicKeyJwk": {
+          "kty": "EC",
+          "crv": "K-256",
+          "x": "",
+          "y": ""
+        }
+      }
+    ],
+    "authentication": ["did:web:sirDemian.github.io#key-1"],
+    "assertionMethod": ["did:web:sirDemian.github.io#key-1"],
+    "service": [
+      {
+        "id": "#issuer-profile",
+        "type": "IssuerProfile",
+        "serviceEndpoint": "https://sirDemian.github.io/blckcert-unq/issuer-blockcerts.json"
+      }
+    ]
+  }
